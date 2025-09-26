@@ -1,0 +1,14 @@
+{
+  "name": "sentiment-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "natural": "^6.10.4",
+    "pino": "^8.0.0",
+    "dotenv": "^16.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
